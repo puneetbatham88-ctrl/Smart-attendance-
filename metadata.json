@@ -1,0 +1,9 @@
+{
+  "name": "Smart Attendance Tracker",
+  "description": "Interactive mobile responsive attendance tracking platform with geo-fencing, automatic shift detection, custom reporting, DND notification center, and Gemini-powered roster analytics.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
